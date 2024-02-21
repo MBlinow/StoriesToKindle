@@ -1,2 +1,2 @@
 # StoriesToKindle
-Scraping web texts and generating kindle friendly formats
+Scraping web texts and generating kindle friendly files
